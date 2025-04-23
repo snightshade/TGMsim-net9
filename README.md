@@ -2,6 +2,9 @@
 
 Open-source TGM Series clone, aiming for accuracy and extensibility.
 
+## Upgraded to .NET 9.0
+This software has been upgraded to run on the modern .NET 9.0 runtime by [Nightshade](https://github.com/snightshade), as a historical curiosity. No support will be provided.
+
 ## Supported game modes:
 
 TGM1 Master  
